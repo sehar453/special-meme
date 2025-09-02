@@ -1,0 +1,15 @@
+.name {
+    color: rgb(2, 76, 119);
+}
+
+h4 {
+    color: rgb(46, 189, 46);
+}
+
+#container {
+    margin: auto;
+}
+
+body {
+    border: 2px solid black;
+}
